@@ -1,2 +1,2 @@
 # zim-plugin-servicenow-replace
-replaces regex matches with links
+Replace matching ServiceNow regex with a link.
